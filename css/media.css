@@ -37,6 +37,58 @@
 	display: none;
 }
 /*slider end*/
+/*features start*/
+.features{
+	padding-top: 50px;
+	padding-bottom: 70px;
+	}
+.m-t-60{
+	margin-top: 30px;
+	}
+.s-text{
+	text-align: center;
+}
+.c-h1{
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.c-p{
+	font-size: 18px;
+	word-spacing: 0;
+}
+.s-icon{
+	font-size: 40px;
+}
+.s-text h2{
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+/*features end*/
+/*contact start*/
+.contact{
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+.c-p {
+    font-size: 16px;
+}
+.f-form{
+	margin-bottom: 0;
+}
+.f-submit{
+	margin-top: 15px;
+}
+/*contact end*/
+/*footer start*/
+.f-1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+footer{
+	padding-bottom: 50px;
+}
+/*footer end*/
 }
 
 /*// Small devices (landscape phones, 576px and up)*/
@@ -52,6 +104,32 @@
 	display: none;
 }
 /*slider end*/
+/*features start*/
+.features{
+	padding-top: 60px;
+	padding-bottom: 80px;
+	}
+.m-t-60{
+	margin-top: 40px;
+	}
+.s-text{
+	text-align: center;
+}
+
+/*features end*/
+/*contact start*/
+.contact{
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+/*contact end*/
+/*footer start*/
+.f-1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+/*footer end*/
+
 }
 
 /*// Medium devices (tablets, 768px and up)*/
@@ -67,6 +145,8 @@
 	margin-top: 35px;
 }
 /*slider end*/
+
+
 }
 
 /*// Large devices (desktops, 992px and up)*/
